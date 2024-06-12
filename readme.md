@@ -20,8 +20,12 @@
 
 Un `utente registrato` puó avere tante `attivitá`
 
-Un `attivitá` puó avere un solo? `utente registrato`, tanti `menu` e tanti `ordini`
+Un `attivitá` puó avere un solo? `utente registrato`, tanti `piatti` e tanti `ordini`
 
-Un `menu` puó avere un `attivitá` tanti `ordini` 
+Un `piatto` puó avere un `attivitá` tanti `ordini` 
 
 Un `ordine` puó avere un `attivitá` e tanti `menú`
+
+
+POTREMMO AGGIUNGERE:
+sconti
